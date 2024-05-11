@@ -1,8 +1,8 @@
 """ 
-Name:       Your Name 
-CS230:      Section XXX 
+Name:       Quoc Bao, Pham
+CS230:      Section 06
 Data:       2017_Crashes_10000_sample.csv
-URL:        Link to your web application on Streamlit Cloud (if posted)  
+URL:        https://quocbaous-streamlit-cs350-crashes-data-app5-vnt0el.streamlit.app/
 Description:     
 This program visualizes the Massachusetts Motor Vehicle Crashes 2017 data. It allows the user to filter the data by city and cause, and it displays the filtered data in a table, a bar chart, and two maps. It also calculates and displays the most common cause of crashes in the filtered data.
 """
